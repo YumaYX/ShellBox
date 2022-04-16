@@ -1,1 +1,3 @@
-[Link](https://github.com/YumaYX/CheatSheet/wiki)
+# Shell Box
+
+[Cheat Sheet](https://github.com/YumaYX/ShellBox/wiki)
