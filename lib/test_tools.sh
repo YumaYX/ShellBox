@@ -28,7 +28,7 @@ function assert_equal() {
 
 function display_expect_and_real() {
 	echo "Expected: ${1}"
-	echo "Real: ${2}"
+	echo "Real:     ${2}"
 	return 0
 }
 

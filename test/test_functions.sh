@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # TestTools
-. ./test/TestTools.sh
+. ./lib/test_tools.sh
 
 # Test Target Files
 . ./lib/functions.sh
